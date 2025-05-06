@@ -8,7 +8,7 @@ Paper submited to conference to be published.
 
 ## JSONL file information
 
-APT reports from MITRE ATT&CK are available on [STIXNet](https://github.com/Mhackiori/STIXnet/blob/main/Dataset/Annotations.json).
+APT reports from MITRE ATT&CK are available on Marchiori's [STIXNet](https://github.com/Mhackiori/STIXnet/blob/main/Dataset/Annotations.json).
 
 JSONs have a dictionary with two keys: 
 - data: Information about the report
